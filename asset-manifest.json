@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-using-redux-toolkit/static/css/main.5b70482b.css",
+    "main.js": "/counter-using-redux-toolkit/static/js/main.fb2637c5.js",
+    "index.html": "/counter-using-redux-toolkit/index.html",
+    "main.5b70482b.css.map": "/counter-using-redux-toolkit/static/css/main.5b70482b.css.map",
+    "main.fb2637c5.js.map": "/counter-using-redux-toolkit/static/js/main.fb2637c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b70482b.css",
+    "static/js/main.fb2637c5.js"
+  ]
+}
